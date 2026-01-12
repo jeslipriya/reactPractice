@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 function App() {
 
-  const [bgColor, setBgColor] = useState('white')
+  const [bgColor, setBgColor] = useState('silver')
 
   return (
     <div>
