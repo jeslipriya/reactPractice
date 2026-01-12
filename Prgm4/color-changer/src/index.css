@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+button {
+  padding: 15px 20px;
+  margin: 5px;
+  font-size: large;
+  color: white;
+  background-color: rgba(255, 250, 250, 0.31);
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.burger{
+  height: 400px;
+  width: 600px;
+  border-color: black;
+  border-style:outset;
+  border-radius: 15px;
+}
